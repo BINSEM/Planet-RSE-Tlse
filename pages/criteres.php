@@ -42,6 +42,10 @@ include ('parts/header.php');
 				<div class="item">Conditions de travail</div>
 				<div class="item">Droits fondamentaux</div>
 				<div class="item">Formalisation d’une politique RSE</div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
 			</div>
 		</div>
 	</div>
@@ -51,6 +55,11 @@ include ('parts/header.php');
 				<h3 class="header">Critères sociétaux</h3>
 				<div class="item">Publication du bilan et du compte de résultat</div>
 				<div class="item">Ancrage territorial</div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
 			</div>
 		</div>
 	</div>
@@ -65,6 +74,7 @@ include ('parts/header.php');
 				<div class="item">Santé et sécurité</div>
 				<div class="item">Conditions de travail</div>
 				<div class="item">Emploi</div>
+				<div class="item"></div>
 			</div>
 		</div>
 	</div>
@@ -87,9 +97,9 @@ include ('parts/header.php');
 </br>
 </br>
 <div class="ui centered fluid grid">
-<div class="column">
-<a href="../V5-demo-CRITERES-PLANETRSE.xlsx"><button class="ui massive green button envoi_fichier"><i class="download icon"></i>Les Critères</button></a>
-</div>
+	<div class="column">
+		<a href="../V5-demo-CRITERES-PLANETRSE.xlsx"><button class="ui massive green button envoi_fichier"><i class="download icon"></i>Les Critères</button></a>
+	</div>
 </div>
 </div> 
 </div>
