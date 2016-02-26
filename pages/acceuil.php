@@ -3,6 +3,7 @@
 <?php
 include ('parts/header.php');
 ?>
+<section class="content">
 <div class="fg-hero">
 <div class="texte_accueil">
 <p>Bienvenue</p>
@@ -49,6 +50,7 @@ L’association a pour vocation de promouvoir la Responsabilité Sociétale des 
 
 </div>
 </div>
+</section>
 <?php
 include ('parts/footer.php');
 ?>
