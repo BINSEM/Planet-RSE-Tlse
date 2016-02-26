@@ -14,6 +14,7 @@ include ('parts/header.php');
 		</div>
 		<div id="contact-button" class="field">
 			<a href="#click-contact"><button class="ui button green">Contact</button></a>
+			<h2>test</h2>
 		</div>
 	</div>
 </div>
