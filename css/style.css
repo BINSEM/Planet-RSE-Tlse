@@ -15,13 +15,17 @@ body, html {
 	flex-direction: column;
 }
 
+}
+.content {
+	flex: 1;
+}
+
 .footer {
 	width: 100%;
 	height: 100px;
 	bottom: 0;
 	border: 1px solid grey;
 	text-align: center;
-	margin-top: 40px;
 }
 
 .footer p {
