@@ -5,6 +5,8 @@
 	<title>Planet'RSE</title>	
   <link rel="stylesheet" type="text/css" href="../css/semantic.css">
   <link rel="stylesheet" type="text/css" href="../css/style.css">
+  <link href='https://fonts.googleapis.com/css?family=Bitter:400,400italic,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,700,600italic,700italic' rel='stylesheet' type='text/css'>
 </head>
 <body>
 
