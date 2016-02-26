@@ -2,8 +2,21 @@
 include ('parts/header.php');
 ?>
 
-<a href="#click-contact"><button class="ui button green"><i class="contact icon"></i>Contact</button></a>
 
+
+<div class="ui centered grid">
+	<div id="contactez-nous" class="fields">
+		<div class="field">
+			<p>
+				Pour nous contacter, faire une suggestion ou participer à nos ateliers,<br />
+				cliquez sur le bouton ci-dessous et remplissez le formulaire.		
+			</p>
+		</div>
+		<div id="contact-button" class="field">
+			<a href="#click-contact"><button class="ui button green">Contact</button></a>
+		</div>
+	</div>
+</div>
 <div id="click-contact" class="modal">
 	<div id="contact" class="centered six wide column">
 		<a href=""><img src="../images/cross.png"></a>

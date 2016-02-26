@@ -92,6 +92,20 @@ body, html {
 	margin-top: 10px;
 }
 
+/*----------------------------------Contact page--------------------------*/
+
+#contact-button button{
+	width: 200px; 
+    padding: 0.3em;
+	margin-top: 1.3em;
+	font-size: xx-large;
+}
+
+#contactez-nous{
+	margin-top: 3em;
+	font-size: 1.2em;
+}
+
 #contact-form{
 	width: 700px;
 	margin-top: 5em;
@@ -110,7 +124,7 @@ body, html {
 
 #contact-ui-form input{
 	background-color: transparent;
-	border-bottom: 1px white solid;
+	border-bottom: 2px white solid;
 	border-top: 1px transparent solid;
 	border-left: 1px transparent solid;
 	border-right: 1px transparent solid;
@@ -119,8 +133,8 @@ body, html {
 
 #contact-ui-form textarea{
 	background-color: transparent;
-	border-bottom: 1px white solid;
-	border-left: 1px white solid;
+	border-bottom: 2px white solid;
+	border-left: 2px white solid;
 	border-right: 1px transparent solid;
 	border-top: 1px transparent solid;
 	border-radius: 0 !important;
@@ -137,6 +151,32 @@ body, html {
 }
 #contact-ui-form input:-ms-placeholder{
 	color: white !important;
+}
+
+#contact-ui-form input:hover::-webkit-input-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+#contact-ui-form input:hover::-moz-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+#contact-ui-form input:hover:-moz-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+#contact-ui-form input:hover:-ms-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+
+#contact-ui-form input:focus::-webkit-input-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+#contact-ui-form input:focus::-moz-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+#contact-ui-form input:focus:-moz-placeholder{
+	color: rgba(0, 0, 0, 0.9) !important;
+}
+#contact-ui-form input:focus:-ms-placeholder{
+	color:rgba(0, 0, 0, 0.9) !important;
 }
 
 #contact-ui-form input:hover, textarea:hover{

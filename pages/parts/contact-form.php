@@ -5,8 +5,8 @@
 			<input placeholder="Nom" type="text">
 		</div>
 		<div class="field">
-			<label>PRENOM</label>
-			<input placeholder="Prénom" type="text">
+			<label>EMAIL</label>
+			<input placeholder="Email" type="text">
 		</div>
 		<div class="field">
 			<label>MESSAGE</label>
